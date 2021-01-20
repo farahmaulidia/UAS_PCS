@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">User API</string>
+    <string name="search_hint">Cari Disini</string>
+    <string name="search">Pencarian</string>
+</resources>
